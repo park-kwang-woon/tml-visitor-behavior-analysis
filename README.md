@@ -40,12 +40,13 @@ Key insights were visualized across multiple analytical dimensions:
 
 | Graphic | Description |
 |--------|-------------|
-| ![Boxplot](./Boxplot_of_Total_Points_per_Visitor.png) | Distribution of visitor points with outliers |
-| ![Cluster](./ClusterProfile_Visits_vs_Exhibits.png) | Clustering based on visits vs experiments |
-| ![Elbow](./Elbow_KMeans.png) | Optimal number of clusters via elbow method |
-| ![Corr Matrix](./CorrMatrix_UserMetrics.png) | Correlation between behavioral metrics |
-| ![Difficulty](./Difficulty_Coefficient_per_Exhibit_Time_per_Point.png) | Exhibit difficulty index |
-| ![Top Users](./Top_10_Users_by_Total_Points.png) | Highest scoring visitors |
+| [Boxplot_of_Total_Points_per_Visitor.png](./Boxplot_of_Total_Points_per_Visitor.png) | Distribution of visitor points with outliers |
+| [ClusterProfile_Visits_vs_Exhibits.png](./ClusterProfile_Visits_vs_Exhibits.png) | Clustering based on visits vs experiments |
+| [Elbow_KMeans.png](./Elbow_KMeans.png) | Optimal number of clusters via elbow method |
+| [CorrMatrix_UserMetrics.png](./CorrMatrix_UserMetrics.png) | Correlation between behavioral metrics |
+| [Difficulty_Coefficient_per_Exhibit_Time_per_Point.png](./Difficulty_Coefficient_per_Exhibit_Time_per_Point.png) | Exhibit difficulty index |
+| [Top_10_Users_by_Total_Points.png](./Top_10_Users_by_Total_Points.png) | Highest scoring visitors |
+
 
 _(Full visual list available in the repo.)_
 
