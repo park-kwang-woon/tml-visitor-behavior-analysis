@@ -16,9 +16,6 @@ This project follows a full **CRISP-DM** cycle for behavior-driven analytics bas
 - Cluster users based on time, visits, and interaction profiles
 - Visualize behavioral and statistical relationships
 
-📄 You can explore the full technical write-up here:  
-➡️ [TML Behavioral Analysis Report (PDF)](./98919ec4-dbf2-4435-a7d6-193cdc55c384.pdf)
-
 🧮 Code execution is available in the R script:  
 ➡️ [all-tables-preprocessed_final_1.R](./all-tables-preprocessed_final_1_R)
 
@@ -38,14 +35,18 @@ This project follows a full **CRISP-DM** cycle for behavior-driven analytics bas
 
 Key insights were visualized across multiple analytical dimensions:
 
-| Graphic | Description |
-|--------|-------------|
-| [Boxplot_of_Total_Points_per_Visitor.png](./Boxplot_of_Total_Points_per_Visitor.png) | Distribution of visitor points with outliers |
-| [ClusterProfile_Visits_vs_Exhibits.png](./ClusterProfile_Visits_vs_Exhibits.png) | Clustering based on visits vs experiments |
-| [Elbow_KMeans.png](./Elbow_KMeans.png) | Optimal number of clusters via elbow method |
-| [CorrMatrix_UserMetrics.png](./CorrMatrix_UserMetrics.png) | Correlation between behavioral metrics |
-| [Difficulty_Coefficient_per_Exhibit_Time_per_Point.png](./Difficulty_Coefficient_per_Exhibit_Time_per_Point.png) | Exhibit difficulty index |
-| [Top_10_Users_by_Total_Points.png](./Top_10_Users_by_Total_Points.png) | Highest scoring visitors |
+## 📊 Visual Outputs
+
+The analysis includes a variety of visualizations available in the repository under the PNG files section. These include:
+
+- Boxplots showing the distribution of total points and interaction durations
+- Histograms for visitor scores, durations, and behavioral segments
+- Bar charts ranking exhibits by average time, total interactions, and difficulty
+- Correlation heatmaps for both exhibit co-occurrence and user metrics
+- K-Means clustering outputs with elbow method validation and scatter plots
+- Visitor segmentation visuals (e.g. top users by points, visits, or consistency)
+
+All visualizations can be found in the `/figures` or root folder as `.png` files with descriptive filenames.
 
 
 _(Full visual list available in the repo.)_
