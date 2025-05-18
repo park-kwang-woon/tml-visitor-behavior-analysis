@@ -9,57 +9,51 @@ The project leverages clustering, correlation, and statistical visualization in 
 
 This project follows a full **CRISP-DM** cycle for behavior-driven analytics based on museum interaction logs.
 
-### 🧪 Key Objectives:
-- Clean and prepare real-world visitor data
-- Identify high-value vs casual users
-- Understand exhibit engagement patterns
-- Cluster users based on time, visits, and interaction profiles
-- Visualize behavioral and statistical relationships
+### 🧪 Key Objectives
+
+- Clean and prepare real-world visitor data  
+- Identify high-value vs casual users  
+- Understand exhibit engagement patterns  
+- Cluster users based on time, visits, and interaction profiles  
+- Visualize behavioral and statistical relationships  
 
 🧮 Code execution is available in the R script:  
-➡️ [all-tables-preprocessed_final_1.R](./all-tables-preprocessed_final_1_R)
+➡️ `all-tables-preprocessed_final_1.R`
 
 ---
 
 ## 🧰 Tools & Technologies
 
-- **Language**: `R`
-- **Libraries**: `dplyr`, `ggplot2`, `tidyr`, `cluster`, `factoextra`, `corrplot`
-- **Clustering**: `k-means` with elbow method
-- **Visualization**: Histograms, scatter plots, boxplots, heatmaps
-- **Data source**: Interaction logs from TechnoMagicLand
+- **Language**: `R`  
+- **Libraries**: `dplyr`, `ggplot2`, `tidyr`, `cluster`, `factoextra`, `corrplot`  
+- **Clustering**: `k-means` with elbow method  
+- **Visualization**: Histograms, scatter plots, boxplots, heatmaps  
+- **Data source**: Interaction logs from TechnoMagicLand  
 
 ---
-
-## 📊 Visual Outputs
-
-Key insights were visualized across multiple analytical dimensions:
 
 ## 📊 Visual Outputs
 
 The analysis includes a variety of visualizations available in the repository under the PNG files section. These include:
 
-- Boxplots showing the distribution of total points and interaction durations
-- Histograms for visitor scores, durations, and behavioral segments
-- Bar charts ranking exhibits by average time, total interactions, and difficulty
-- Correlation heatmaps for both exhibit co-occurrence and user metrics
-- K-Means clustering outputs with elbow method validation and scatter plots
-- Visitor segmentation visuals (e.g. top users by points, visits, or consistency)
+- Boxplots showing the distribution of total points and interaction durations  
+- Histograms for visitor scores, durations, and behavioral segments  
+- Bar charts ranking exhibits by average time, total interactions, and difficulty  
+- Correlation heatmaps for both exhibit co-occurrence and user metrics  
+- K-Means clustering outputs with elbow method validation and scatter plots  
+- Visitor segmentation visuals (e.g. top users by points, visits, or consistency)  
 
 All visualizations can be found in the `/figures` or root folder as `.png` files with descriptive filenames.
-
-
-_(Full visual list available in the repo.)_
 
 ---
 
 ## 🔍 Key Findings
 
-- 🧍‍♂️ Most visitors only visit once, but some accumulate many points
-- 🧠 High repeat users tend to interact with more exhibits on average
-- 🎯 Certain exhibits have consistently high interaction time but low scores, indicating high difficulty or engagement
-- 📉 Many visitors drop off after only 1–2 interactions
-- 🤖 Clustering identified meaningful segments (e.g. speedrunners vs explorers)
+- 🧍‍♂️ Most visitors only visit once, but some accumulate many points  
+- 🧠 High repeat users tend to interact with more exhibits on average  
+- 🎯 Certain exhibits have consistently high interaction time but low scores, indicating high difficulty or engagement  
+- 📉 Many visitors drop off after only 1–2 interactions  
+- 🤖 Clustering identified meaningful segments (e.g. speedrunners vs explorers)  
 
 ---
 
@@ -71,6 +65,7 @@ _(Full visual list available in the repo.)_
 ├── 📘 README.md
 ├── 📑 LICENSE (MIT)
 ├── 📕 Report PDF (Technical Summary)
+
 
 ---
 
@@ -91,5 +86,4 @@ This project is licensed under the **MIT License** – see [LICENSE](./LICENSE) 
 
 Conducted as part of a data science and education analytics project based on real museum interaction data.  
 Developed by [Sergey Filipov](https://github.com/SergeyFilipov)
-
 
